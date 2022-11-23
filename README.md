@@ -1,12 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Schets je ontwikkeling 
 
+Een praatplaat over mijn ontwikkeling tijdens deze opleiding, in de praatplaat staat bijvoorbeeld, wat er goed gaat, wat er minder goed gaat en wat ik de komende tijd op school wil gaan leren.
 
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+![image](https://user-images.githubusercontent.com/112856287/203526767-ce787e9a-cb88-426e-bea4-40920ccb896b.png)
